@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 My name is Douglas Drumond Kayama.
-- 💑 Husband of @letochie.
+- 💑 Husband of [@letochie](https://github.com/letochie).
 - 🔭 I’m currently a development leader at Pipefy migrating our current React Native app to a complete native and mobile-first redesigned experience on both Android and iOS.
 - 🌱 I’m currently learning better management skills.
 - 📫 How to reach me: 
